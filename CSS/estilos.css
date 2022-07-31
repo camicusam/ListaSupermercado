@@ -11,12 +11,12 @@ body
     font-family: "arial";
     color:aliceblue;
 }
-#Principal{
+#main-ul{
     font-family: "arial";
     font-size: 25px;
     color:white;
 }
-#secundario{
+#main-ul__item{
     font-family: "arial";
     font-size: 15px;
     color:rgb(236, 240, 241);
